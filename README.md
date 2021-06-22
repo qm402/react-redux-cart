@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Description
+A front-end react/redux application with cart functionality
+
+## Screenshots
+
+<img width="1132" alt="Homepage" src="https://user-images.githubusercontent.com/26609462/123011242-eaff2e00-d3b7-11eb-811c-e0aa882be62c.png">
+<img width="1227" alt="Basket" src="https://user-images.githubusercontent.com/26609462/123011246-ef2b4b80-d3b7-11eb-975a-373363ed4154.png">
+
 ## Available Scripts
 
 In the project directory, you can run:
